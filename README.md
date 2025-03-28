@@ -1,15 +1,15 @@
 # Gen AI Analytics - Data Query Dashboard
 
-## 🚀 Overview
+##  Overview
 This is a **React-based Data Query Dashboard Prototype** for the **Gen AI Analytics Tool**, which allows users to interact with data using natural language queries. The dashboard simulates AI-powered query processing and visualizes results in an intuitive format.
 
-## 🎯 Features
-- 📝 **Natural Language Query Input** with AI-powered suggestions
-- 📜 **Query History** for quick access to past queries
-- 📊 **Results Visualization** with mock data (Recharts)
-- ⏳ **Loading & Error States** for better UX
-- 🌍 **Global State Management** using Redux
-- 🎨 **Responsive UI** powered by Tailwind CSS
+##  Features
+- **Natural Language Query Input** with AI-powered suggestions
+-  **Query History** for quick access to past queries
+-  **Results Visualization** with mock data (Recharts)
+-  **Loading & Error States** for better UX
+-  **Global State Management** using Redux
+-  **Responsive UI** powered by Tailwind CSS
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js (Vite)
@@ -18,7 +18,7 @@ This is a **React-based Data Query Dashboard Prototype** for the **Gen AI Analyt
 - **Charts:** Recharts
 - **Deployment:** Vercel 
 
-## 🏗️ Installation & Setup
+##  Installation & Setup
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/akashkumar30698/genai.git
@@ -34,7 +34,7 @@ This is a **React-based Data Query Dashboard Prototype** for the **Gen AI Analyt
    ```
 4. Open `http://localhost:5173` in your browser.
 
-## 📂 Project Structure
+##  Project Structure
 ```
 ├── src
 │   ├── components
@@ -52,18 +52,18 @@ This is a **React-based Data Query Dashboard Prototype** for the **Gen AI Analyt
 └── README.md
 ```
 
-## 🚀 Deployment
+##  Deployment
 - **Live Demo:** [Click Here](https://genai-lac-seven.vercel.app)
 - **GitHub Repo:** [Click Here](https://github.com/akashkumar30698/genai)
 
-## 🎯 Approach & Thought Process
+##  Approach & Thought Process
 1. **Component-Driven Development:** Separated the UI into independent, reusable components.
 2. **Redux for State Management:** Used Redux Toolkit to handle query submission, loading, and results.
 3. **Mock AI Interaction:** Simulated AI responses and query suggestions.
 4. **Recharts for Visualization:** Integrated a simple bar chart to display query results.
 5. **Responsive & Minimal UI:** Ensured a clean, user-friendly experience using Tailwind CSS.
 
-## 📜 Future Enhancements
+##  Future Enhancements
 - Integrate a backend for real AI query processing.
 - Improve AI-powered query suggestions.
 - Add more visualization types.
